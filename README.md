@@ -1,2 +1,2 @@
 # hello_world
-duh!
+Wow! This is too easy.
